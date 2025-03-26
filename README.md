@@ -49,4 +49,10 @@ No extra setup, no manual tracking—**just a quick way to stay updated and moti
 
 ---
 
-Start solving smarter, not harder—**track, learn, and improve with StalkCF! 🚀**  
+Start solving smarter, not harder—**track, learn, and improve with StalkCF! 🚀**    
+   
+   
+###### Developer's NOTE:   
+I’ve created this project as a total newbie to web development (particularly extension development) to get a hands-on feel for how web development works. Along the way, I’ve quickly skimmed over HTML, CSS, JavaScript, working with APIs, and working with Chrome extensions, among other things.
+
+
