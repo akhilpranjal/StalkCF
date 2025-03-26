@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "StalkCF",
+    "version": "1.0",
+    "description": "Displays rating wise solved problems of the user on their profile along with the name, problem link & submission link.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["https://codeforces.com/*"],
+    "content_scripts": [
+        {
+            "matches": ["https://codeforces.com/profile/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "images/stalkcf.png"
+    }
+}
