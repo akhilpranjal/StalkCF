@@ -25,13 +25,13 @@ Whether competing with friends, tracking a mentor's progress, or just looking fo
 ---
 
 ## 🛠️ **Installation** (Takes Just a Minute!)
-Note: I'd love to put this on the Chrome Web Store, but Google wants $5 for a developer account, and frankly, I'd rather spend that on snacks. So, you’ll have to install it manually — but hey, that just makes you a developer too!😂🚀
-I'll take you through the steps:
-1️⃣ Clone this repo **or** download the ZIP file.
-2️⃣ Open Chrome and go to `chrome://extensions/`.  
-3️⃣ Enable **Developer Mode** (top-right corner).
-4️⃣ Click **"Load Unpacked"** and select the folder.
-5️⃣ Visit any Codeforces profile and explore their solved problems instantly!  
+Note: I'd love to put this on the Chrome Web Store, but Google wants $5 for a developer account, and frankly, I'd rather spend that on snacks. So, you’ll have to install it manually — but hey, that just makes you a developer too!😂🚀   
+I'll take you through the steps:   
+1️⃣ Clone this repo **or** download the ZIP file.   
+2️⃣ Open Chrome and go to `chrome://extensions/`.    
+3️⃣ Enable **Developer Mode** (top-right corner).   
+4️⃣ Click **"Load Unpacked"** and select the folder.   
+5️⃣ Visit any Codeforces profile and explore their solved problems instantly!    
 
 ---
 
