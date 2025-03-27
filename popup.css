@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Merriweather:wght@700&display=swap');
 body {
     width: 300px;
     background: linear-gradient(135deg, #1A1A1A, #34568B);
-    /* background: rgb(223, 177, 177); */
     font-family: 'Arial', sans-serif;
     text-align: center;
     color: #fff;
@@ -21,27 +19,11 @@ h1 {
     margin-bottom: 10px;
 }
 
-.Stalk{
-    font-family: 'Arial Black', sans-serif;
-    color: rgb(255, 255, 255);
-    font-weight: 700;
-    font-size: 2rem;
-}
-
-.CF{
-    /* font-family: 'Times New Roman', serif; */
-    color: #4F74C8; 
-    font-weight: 700;
-    font-size: 1.8rem;
-}
-
 p {
     font-size: 14px;
     margin-bottom: 15px;
 }
-.para1{
-    font-weight: 600;
-}
+
 .links {
     display: flex;
     flex-direction: column;
