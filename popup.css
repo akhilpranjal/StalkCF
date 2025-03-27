@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Merriweather:wght@700&display=swap');
 body {
     width: 300px;
-    background: linear-gradient(135deg, #1A1A1A, #34568B);
-    /* background: rgb(223, 177, 177); */
+    /* background: linear-gradient(135deg, #1A1A1A, #34568B); */
+    background: rgb(255, 255, 255);
     font-family: 'Arial', sans-serif;
     text-align: center;
     color: #fff;
@@ -20,10 +20,14 @@ h1 {
     font-size: 22px;
     margin-bottom: 10px;
 }
+.imglogocontainer{
+    display: flex;
+    justify-content: center;
 
+}
 .Stalk{
     font-family: 'Arial Black', sans-serif;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-weight: 700;
     font-size: 2rem;
 }
@@ -34,10 +38,17 @@ h1 {
     font-weight: 700;
     font-size: 1.8rem;
 }
-
+/* .parabox{
+    height: 2rem;
+    border-radius: 0.4rem;
+    border: 1px solid rgb(185, 185, 185);
+    margin-bottom: 0.5rem;
+} */
 p {
+    margin: 0 auto;
     font-size: 14px;
     margin-bottom: 15px;
+    color: black;
 }
 .para1{
     font-weight: 600;
@@ -46,6 +57,12 @@ p {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.imglogo{
+    height: 28px;
+    margin-top: 0.7rem;
+    margin-right: 0.4rem;
 }
 
 .btn {
@@ -86,6 +103,7 @@ p {
 }
 
 footer {
+    color: #24292e;
     margin-top: 15px;
     font-size: 12px;
     opacity: 0.8;
