@@ -1,3 +1,6 @@
+// Hey Contributor, I have added comments to every step so that you can go through each line of code easily and understand it for the context.
+
+
 // Function to store the data of all the solved problems of a user in an object.
 async function getSolvedProblems(handle)
 {
